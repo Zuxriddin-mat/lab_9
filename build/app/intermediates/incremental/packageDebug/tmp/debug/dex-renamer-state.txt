@@ -1,0 +1,4 @@
+#Wed Dec 13 19:06:26 UZT 2023
+base.0=C\:\\Users\\User\\Downloads\\lab_9\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
